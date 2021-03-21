@@ -1,3 +1,4 @@
+/* header style */
 header {
   color: white;
   text-align: center;
@@ -7,32 +8,32 @@ header {
   margin: 0;
   padding: 10px;
 }
-
+/*h1 style*/
 h1 {
   color: black;
 }
-
+/*h2 style*/
 h2 {
   color: black;
   text-align: center;
   font-family: "Comic Sans MS";
 }
-
+/*paragraph style*/
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
 }
-
+/*list styles*/
 ul, ol {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
 }
-
+/*pseudo links*/
 a:link    { color: blue;  }
 a:visited { color: purple;   }
 a:hover   { color: green; }
 a:active  { color: yellow;  }
-
+/*footer style*/
  footer {
    text-align: center;
    background-color: grey;
